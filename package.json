@@ -1,0 +1,12 @@
+{
+	"version": "0.0.1",
+	"author": "soulued",
+	"dependencies": {
+		"grunt": "*",
+		"grunt-browserify": "*",
+		"grunt-contrib-compass": "*",
+		"grunt-contrib-clean": "*",
+		"grunt-contrib-watch": "*",
+		"grunt-contrib-copy": "*"
+	}
+}
